@@ -1,1 +1,1 @@
-av11/stablediffusion_webui_automatic1111
+zaizhuzhu123/stablediffusion:1.0.9
