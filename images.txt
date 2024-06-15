@@ -1,1 +1,2 @@
 zaizhuzhu123/stablediffusion:1.0.9
+xiaoyaliu/alist
