@@ -1,2 +1,3 @@
 zaizhuzhu123/stablediffusion:1.0.9
 --platform=linux/amd64 xiaoyaliu/alist
+haroldli/xiaoya-tvbox
