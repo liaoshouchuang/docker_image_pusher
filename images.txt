@@ -1,1 +1,1 @@
---platform=linux/386 php:8.3.0-fpm-bookworm
+--platform=linux/386 php:8.1.0-fpm-bullseye
