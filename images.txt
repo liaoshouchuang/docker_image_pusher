@@ -1,1 +1,1 @@
---platform=linux/386 nginx
+--platform=linux/386 php
