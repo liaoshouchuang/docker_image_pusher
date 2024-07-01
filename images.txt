@@ -1,1 +1,1 @@
---platform=linux/386 php
+--platform=linux/386 php:8.3.0-fpm
