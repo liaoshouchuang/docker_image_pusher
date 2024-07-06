@@ -1,1 +1,1 @@
---platform=linux/adm64 php:8.3.0-fpm
+--platform=linux/amd64 php:8.3.0-fpm
