@@ -1,1 +1,1 @@
---platform=amd64 php:5.4-fpm
+--platform=linux/amd64 php:7.2-fpm
