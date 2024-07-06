@@ -1,1 +1,5 @@
---platform=linux/amd64 php:8.3.0-fpm
+--platform=linux/amd64 php:8.1-fpm
+--platform=linux/amd64 php:7.4-fpm
+--platform=linux/amd64 php:7.1-fpm
+--platform=linux/amd64 php:5.6-fpm
+--platform=linux/amd64 php:5.4-fpm
