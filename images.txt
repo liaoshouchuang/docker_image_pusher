@@ -1,2 +1,2 @@
-0.3.9-cuda
-0.3.9-ollama
+--platform=linux/amd64 backplane/open-webui:0.3.9-cuda
+--platform=linux/amd64 backplane/open-webui:0.3.9-ollama
