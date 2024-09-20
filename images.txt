@@ -20,4 +20,5 @@
 #--platform=linux/amd64 opensearchproject/opensearch-dashboards:latest
 #--platform=linux/amd64 myscale/myscaledb:1.6.4
 #--platform=linux/amd64 elastic/elasticsearch:8.14.3
---platform=linux/amd64 hyperf/hyperf:8.3-alpine-vedge-swoole-slim-v5.1.4
+#--platform=linux/amd64 hyperf/hyperf:8.3-alpine-vedge-swoole-slim-v5.1.4
+--platform=linux/amd64 1panel/maxkb:v1.5.1
