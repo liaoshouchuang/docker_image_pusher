@@ -22,5 +22,6 @@
 #--platform=linux/amd64 elastic/elasticsearch:8.14.3
 #--platform=linux/amd64 hyperf/hyperf:8.3-alpine-vedge-swoole-slim-v5.1.4
 #--platform=linux/amd64 1panel/maxkb:v1.5.1
---platform=linux/amd64 ollama/ollama:0.3.12
---platform=linux/amd64 mintplexlabs/anythingllm:1.2
+#--platform=linux/amd64 ollama/ollama:0.3.12
+#--platform=linux/amd64 mintplexlabs/anythingllm:1.2
+--platform=linux/amd64 gists/frp:0.61.0
