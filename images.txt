@@ -26,6 +26,6 @@
 #--platform=linux/amd64 mintplexlabs/anythingllm:1.2
 #--platform=linux/amd64 gists/frp:0.61.0
 #--platform=linux/amd64 stilleshan/frpc:0.61.0 另外一个
---platform=linux/amd64 snowdreamtech/frps:0.61.0
---platform=linux/amd64 snowdreamtech/frpc:0.61.0
-
+#--platform=linux/amd64 snowdreamtech/frps:0.61.0
+#--platform=linux/amd64 snowdreamtech/frpc:0.61.0
+--platform=linux/amd64 greper/certd:1.27.1
