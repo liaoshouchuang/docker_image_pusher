@@ -29,4 +29,5 @@
 #--platform=linux/amd64 snowdreamtech/frps:0.61.0
 #--platform=linux/amd64 snowdreamtech/frpc:0.61.0
 #--platform=linux/amd64 greper/certd:1.27.1
---platform=linux/amd64 ollama/ollama:0.4.1
+#--platform=linux/amd64 ollama/ollama:0.4.1
+--platform=linux/amd64 mysql:8.4.3
