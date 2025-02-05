@@ -36,3 +36,4 @@
 #--platform=linux/amd64 guovern/iptv-api:latest
 #--platform=linux/amd64 guovern/iptv-api:lite
 --platform=linux/amd64 ollama/ollama:0.5.7
+--platform=linux/amd64 langgenius/dify-web:0.15.2
