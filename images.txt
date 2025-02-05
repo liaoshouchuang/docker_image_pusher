@@ -33,5 +33,6 @@
 #--platform=linux/amd64 mysql:8.4.3
 #--platform=linux/amd64 halcyonazure/lsky-pro-docker:latest
 #--platform=linux/amd64 mouday/domain-admin:v1.6.60
---platform=linux/amd64 guovern/iptv-api:latest
---platform=linux/amd64 guovern/iptv-api:lite
+#--platform=linux/amd64 guovern/iptv-api:latest
+#--platform=linux/amd64 guovern/iptv-api:lite
+--platform=linux/amd64 ollama/ollama:0.5.7
