@@ -35,5 +35,6 @@
 #--platform=linux/amd64 mouday/domain-admin:v1.6.60
 #--platform=linux/amd64 guovern/iptv-api:latest
 #--platform=linux/amd64 guovern/iptv-api:lite
---platform=linux/amd64 ollama/ollama:0.5.7
---platform=linux/amd64 langgenius/dify-web:0.15.2
+#--platform=linux/amd64 ollama/ollama:0.5.7
+#--platform=linux/amd64 langgenius/dify-web:0.15.2
+--platform=linux/amd64 langgenius/dify-api:0.15.2
