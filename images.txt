@@ -32,5 +32,6 @@
 #--platform=linux/amd64 ollama/ollama:0.5.11
 #--platform=linux/amd64 langgenius/dify-web:0.15.3
 #--platform=linux/amd64 langgenius/dify-api:0.15.3
---platform=linux/amd64 php:8.3-zts
---platform=linux/amd64 phpswoole/swoole:6.0.1-php8.3-zts
+#--platform=linux/amd64 php:8.3-zts
+#--platform=linux/amd64 phpswoole/swoole:6.0.1-php8.3-zts
+--platform=linux/amd64 phpswoole/swoole:6.0.1-php8.3-zts-dev
