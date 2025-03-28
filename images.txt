@@ -35,7 +35,7 @@
 #--platform=linux/amd64 php:8.3-zts
 #--platform=linux/amd64 phpswoole/swoole:6.0.1-php8.3-zts
 #--platform=linux/amd64 phpswoole/swoole:6.0.1-php8.3-zts-dev
-#--2025-03-28
+#--2025-03-28 以下 dify
 #--platform=linux/amd64 ollama/ollama:0.6.3
 #--platform=linux/amd64 langgenius/dify-web:1.1.3
 #--platform=linux/amd64 langgenius/dify-api:1.1.3
@@ -50,4 +50,5 @@
 #--platform=linux/amd64 tensorchord/pgvecto-rs:pg17-v0.4.0
 #--platform=linux/amd64 chromadb/chroma:0.5.20
 #--platform=linux/amd64 oceanbase/oceanbase-ce:4.3.5.1-101000042025031818
---platform=linux/amd64 milvusdb/milvus:v2.5.7
+#--platform=linux/amd64 milvusdb/milvus:v2.5.7
+#--2025-03-28 以上 dify
