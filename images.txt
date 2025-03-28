@@ -47,4 +47,6 @@
 #--platform=linux/amd64 oceanbase/oceanbase-ce:4.3.3.0-100000142024101215
 #--platform=linux/amd64 opengauss/opengauss:7.0.0-RC1-amd64
 #--platform=linux/amd64 kibana:8.17.4
---platform=linux/amd64 tensorchord/pgvecto-rs:pg17-v0.4.0
+#--platform=linux/amd64 tensorchord/pgvecto-rs:pg17-v0.4.0
+--platform=linux/amd64 chromadb/chroma:0.5.20
+--platform=linux/amd64 oceanbase/oceanbase-ce:4.3.5.1-101000042025031818
