@@ -52,3 +52,5 @@
 #--platform=linux/amd64 oceanbase/oceanbase-ce:4.3.5.1-101000042025031818
 #--platform=linux/amd64 milvusdb/milvus:v2.5.7
 #--2025-03-28 以上 dify
+# 开源音乐
+--platform=linux/amd64 deluan/navidrome:latest
